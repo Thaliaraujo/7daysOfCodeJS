@@ -1,3 +1,6 @@
+// Lógica JS 5/7: Arrays e coleções
+// Lógica JS 6/7: Remoção de Arrays
+
 let frutas = [];
 let verduras = [];
 let laticinios = [];
