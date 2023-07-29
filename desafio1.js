@@ -6,7 +6,6 @@ let stringTen = '10';
 let numberThirty = 30;
 let stringThirty = '30';
 
-
 // Verifica se as variáveis numberOne e stringOne têm o mesmo valor, mas tipos diferentes.
 if (numberOne == stringOne) {
   console.log('As variáveis numberOne e stringOne tem o mesmo valor, mas tipos diferentes.');

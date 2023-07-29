@@ -1,5 +1,4 @@
 //Lógica JS 2/7: Variáveis.
-
 let user = prompt ('Qual é o seu nome?');
 let age = prompt ('Quantos anos você tem?');
 let language = prompt ('Qual linguagem de programação você está estudando?');
