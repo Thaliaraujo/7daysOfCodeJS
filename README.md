@@ -47,5 +47,20 @@ let stringThirty = '30';
 <li><p>Notificar o usuário quando o item for removido e/ou se a lista estiver vazia.</p></li>
 </ul>
 
+### Dia 7: Funções em Javascript
+<ul>
+<li><p>Neste último desafio, a propostaé: criar uma calculadora, porém com um detalhe muito importante: cada operação deverá ser uma função diferente no código;</p></li>
+<li><p>O usuário deverá escolher uma opção de operação impressa pelo programa na tela;</p></li>
+<li><p>Depois, o usuário deverá inserir os dois valores que deseja utilizar, e o programa imprimirá o resultado da operação em questão;</p></li>
+<li><p>As opções disponíveis deverão ser: soma, subtração, multiplicação, divisão, e sair.</p></li>
+</ul>
+
+
+
+
+
+
+
+
 
 
