@@ -17,3 +17,4 @@ for (let i = 0; i < 3; i++) {
 if (!correct){
     alert(`Infelizmente você não acertou! O número era ${numberRandom}`);
 };
+

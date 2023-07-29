@@ -57,7 +57,7 @@ while (true) {
         break;
     } else {
         alert('Opção inválida, tente novamente!');
-  };
+    };
 };
 
 if (specializationOrFullstack === '1') {

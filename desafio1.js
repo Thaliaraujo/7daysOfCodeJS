@@ -1,4 +1,4 @@
-//Lógica JS 1/7: Operações Booleanas
+//Lógica JS 1/7: Operações Booleanas.
 let numberOne = 1;
 let stringOne = '1';
 let numberTen = 10;

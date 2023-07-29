@@ -8,7 +8,7 @@ let listaDeCompras = {
     bebidas: [],
     limpeza: [],
     outros: []
-  };
+};
   
 // Criando uma função para adicionar um produto na lista
 function adicionarProduto() {
@@ -76,12 +76,12 @@ function removerProduto() {
             listaDeCompras[categoria].splice(listaDeCompras[categoria].indexOf(remover), 1);
             alert(`O item ${remover} foi removido com sucesso!`);
             return; // Saindo da função depois de remover o produto
+            };
         };
-      };
-      // Se o produto não foi encontrado em nenhuma categoria, avisar ao usuário
-      alert(`O item ${remover} não está na lista de compras.`);
+        // Se o produto não foi encontrado em nenhuma categoria, avisar ao usuário
+        alert(`O item ${remover} não está na lista de compras.`);
     };
-  };
+};
   
 // Criando uma função para mostrar a lista de compras na tela
 function mostrarLista() {
