@@ -1,5 +1,5 @@
 //Jogo Front ou Back
-let user = prompt ('Qual é o seu nome?');
+let userName = prompt ('Qual é o seu nome?');
 let language = prompt (`Olá ${user}, qual linguagem de programação você está estudando?`);
 let area = '';
 let framework = '';
